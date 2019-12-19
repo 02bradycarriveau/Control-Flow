@@ -43,3 +43,23 @@ while guess != Number3:
     guess = int(input("enter a guess:"))
 
 print("\nYour the ultimate guesser!\n")
+
+
+"""
+Programmer: Brady Carriveau
+Date: 12/19/19
+Program: 1-10
+"""
+
+
+
+
+x = 1
+
+#While loop will see if a condition has been met
+# If not it will run again the condition
+# has been met
+
+while x <= 10:
+    print(x)
+    x+=1
