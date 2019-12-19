@@ -2,7 +2,7 @@
 Programmer: Brady Carriveau
 Date: 12/16/19
 Program: Guess my number
-
+"""
 Number2 = 14
 myNumber = 7
 Number3 = 26
@@ -43,13 +43,15 @@ while guess != Number3:
     guess = int(input("enter a guess:"))
 
 print("\nYour the ultimate guesser!\n")
-"""
+
 
 """
 Programmer: Brady Carriveau
 Date: 12/19/19
 Program: 1-10
 """
+
+
 
 
 x = 1
