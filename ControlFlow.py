@@ -1,8 +1,7 @@
-
-#Programmer: Brady Carriveau
+# Program: Guess my number
 #Date: 12/16/19
+#Programmer: Brady Carriveau
 #Program: Guess my number
-
 Number2 = 14
 myNumber = 7
 Number3 = 26
@@ -10,18 +9,19 @@ print("\nGuess a number between 1 & 10\n")
 
 
 # aks users to guess
+
 guess = int(input("\nEnter a Guess\n"))
 
 #ask person until they get it right
-#it is equal to myNumber
 while guess != myNumber:
+#it is equal to myNumber
     print("\nnope, not right. again?")
     guess = int(input("enter a guess:"))
 
 
 print("\nWhoa, you got it right\n")
-
 print("\nGuess a number between 1 & 20\n")
+
 
 
 guess = int(input("\nEnter a Guess\n"))
@@ -45,12 +45,15 @@ while guess != Number3:
 print("\nYour the ultimate guesser!\n")
 
 
+"""
+Programmer: Brady Carriveau
+Date: 12/19/19
+Program: 1-10
+"""
 
 #Programmer: Brady Carriveau
 #Date: 12/19/19
 #Program: 1-10
-
-
 
 
 
