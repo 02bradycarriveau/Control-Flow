@@ -14,7 +14,7 @@ print ("\n*************************************\n")
 """
 Programmer: Brady Carriveau
 Date: 1.23.20
-program WHile loop nested inside for loop
+program While loop nested inside for loop
 """
 
 
