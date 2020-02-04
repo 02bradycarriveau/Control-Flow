@@ -32,6 +32,11 @@ def printTwoNumbers(x,y = 17):
 #Print Sum
 def printSum(x,y):
     print(x + y)
+
+#Print SUm multiple times
+def printSumMulitpleTimes(string, times):
+    for i in range(times):
+        print(string)
 # Call Functions Here
 
 #greeting()
@@ -41,4 +46,5 @@ def printSum(x,y):
 #printNumber(15)
 #printTwoNumbers(23,20)
 #printTwoNumbers(3)
-printSum(1,17)
+#printSum(1,17)
+printSumMulitpleTimes("I love CS!", 10000000000)
